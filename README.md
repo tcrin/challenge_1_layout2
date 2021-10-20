@@ -1,6 +1,10 @@
 # challenge_1_layout2
 
-A new Flutter project.
+![](images_demo/home.jpg)
+![](images_demo/row.jpg)
+![](images_demo/col.jpg)
+![](images_demo/girdview.jpg)
+![](images_demo/mix.jpg)
 
 ## Getting Started
 
